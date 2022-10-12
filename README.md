@@ -5,7 +5,7 @@
 
 📚 Computer Engineering student at Universidade Federal da Paraíba (UFPB)
 
-💻 C, HTML, JAVA
+💻 C, C++, Python, JAVA
 
 🌎 From Brazil
 
