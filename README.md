@@ -1,9 +1,11 @@
 ### Hello, I'm Renata Andrade 👋
 #
 
-⚙ Technical course in Mechanics from Instituto Federal da Paraíba (IFPB)
+🎓 Computer Engineer from Universidade Federal da Paraíba (UFPB)
 
-📚 Computer Engineering student at Universidade Federal da Paraíba (UFPB)
+⚙️ Technical course in Mechanics from Instituto Federal da Paraíba (IFPB)
+
+🤖 Working in Robotics, with a focus on Autonomous Navigation
 
 💻 C, C++, Python, JAVA
 
